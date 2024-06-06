@@ -9,7 +9,7 @@ struct Home: StaticPage {
     func body(context: PublishingContext) -> [BlockElement] {
         Section {
             Card {
-                Image("https://cacaocast.com/images/avatar@2x.png", description: "Logo cacaocast")
+                Image("/images/avatar@2x.png", description: "Logo cacaocast")
                     .frame(width: 128)
             } footer: {
                 Text("CacaoCast")
