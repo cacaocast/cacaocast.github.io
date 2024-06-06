@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.cacaocast.com/sitemap.xml
+Sitemap: https://cacaocast.github.io/cacaocast.com//sitemap.xml

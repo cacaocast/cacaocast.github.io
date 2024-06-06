@@ -15,11 +15,11 @@ struct IgniteWebsite {
 }
 
 struct ExampleSite: Site {    
-    var name = "This is the new CacaoCast website!"
+    var name = "Site CacaoCast écrit en Swift avec Ignite!"
     var baseTitle = " – CacaoCast"
-    var url = URL("https://www.cacaocast.com")
+    var url = URL("https://cacaocast.github.io/cacaocast.com/")
     var builtInIconsEnabled = true
-    var feedConfiguration = FeedConfiguration(mode: .full, contentCount: 20, image: .init(url: "https://cacaocast.com/images/favicon-32x32.png", width: 32, height: 32))
+    var feedConfiguration = FeedConfiguration(mode: .full, contentCount: 20, image: .init(url: "https://cacaocast.github.io/cacaocast.com/images/favicon-32x32.png", width: 32, height: 32))
 
     var author = "Philippe Guitard"
 
