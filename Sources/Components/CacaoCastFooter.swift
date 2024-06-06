@@ -20,7 +20,7 @@ struct CacaoCastFooter: Component {
                     Image(systemName: "mastodon")
                 }
                 .font(.title4)
-                .foregroundStyle(.grey)
+                .fontWeight(.ultraLight)
             }
             
             Text {
