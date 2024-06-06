@@ -17,7 +17,7 @@ struct IgniteWebsite {
 struct ExampleSite: Site {    
     var name = "Site CacaoCast écrit en Swift avec Ignite!"
     var baseTitle = " – CacaoCast"
-    var url = URL("https://cacaocast.github.io")
+    var url = URL("https://cacaocast.github.io/cacaocast/")
     var builtInIconsEnabled = true
     var feedConfiguration = FeedConfiguration(mode: .full, contentCount: 20, image: .init(url: "/images/favicon-32x32.png", width: 32, height: 32))
 
