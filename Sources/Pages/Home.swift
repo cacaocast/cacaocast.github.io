@@ -61,6 +61,6 @@ struct Home: StaticPage {
             .tableBorder(false)
         }
         .margin(.top, .large)
-        .margin(.leading, .small)
+        .margin([.leading, .trailing], .small)
     }
 }

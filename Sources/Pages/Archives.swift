@@ -48,7 +48,7 @@ struct Archives: StaticPage {
             .tableBorder(false)
         }
         .margin(.top, .large)
-        .margin(.leading, .small)
+        .margin([.leading, .trailing], .small)
         
         Section {
             if year < current_year! {
@@ -61,7 +61,6 @@ struct Archives: StaticPage {
                     }
                     .font(.title6)
                 }
-                .margin(.leading, .small)
                 .horizontalAlignment(.leading)
             } else {
                 Section {}
@@ -82,5 +81,6 @@ struct Archives: StaticPage {
                 Section {}
             }
         }
+        .margin([.leading, .trailing], .small)
     }
 }
