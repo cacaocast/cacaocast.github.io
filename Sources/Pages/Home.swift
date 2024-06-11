@@ -8,23 +8,25 @@ struct Home: StaticPage {
 
     func body(context: PublishingContext) -> [BlockElement] {
         Section {
-            Card {
-                Image("/images/avatar@2x.png", description: "Logo cacaocast")
-                    .frame(width: 128)
-            } footer: {
-                Text("CacaoCast")
-                    .font(.title2)
-                
-                Text("Le site du balado CacaoCast")
-                    .font(.title4)
-                    .fontWeight(.light)
-                    .foregroundStyle(.gray)
-            }
-            .cardStyle(.default)
+            Image("/images/avatar@2x.png", description: "Logo cacaocast")
+                .frame(width: 128)
         }
         .horizontalAlignment(.center)
-        .width(2)
-        .padding(.horizontal, 600)
+        
+        Section {
+            Text("CacaoCast")
+                .font(.title2)
+        }
+        .padding(.top, .small)
+        .horizontalAlignment(.center)
+        
+        Section {
+            Text("Le site du balado CacaoCast")
+                .font(.title4)
+                .fontWeight(.light)
+                .foregroundStyle(.gray)
+        }
+        .horizontalAlignment(.center)
         
         Section {
             Text("Derniers épisodes…")
