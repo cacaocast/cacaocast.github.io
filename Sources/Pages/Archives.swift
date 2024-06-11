@@ -20,6 +20,7 @@ struct Archives: StaticPage {
                 .font(.title3)
                 .foregroundStyle(.gray)
         }
+        .margin(.leading, .small)
         .margin(.top, .extraLarge)
 
         Section {
@@ -46,17 +47,39 @@ struct Archives: StaticPage {
             }
             .tableBorder(false)
         }
-        .width(6)
+        .margin(.top, .large)
+        .margin(.leading, .small)
         
         Section {
-            for stride_year in stride(from: current_year!, through: 2009, by: -1) {
-                Group {
-                    if year == stride_year {
-                        Text("\(stride_year)")
-                    } else {
-                        Link("\(stride_year)", target: "/Archives/\(stride_year)")
+            if year < current_year! {
+                Section {
+                    Text {
+                        Link(target: "/Archives/\(year + 1)") {
+                            Image(systemName: "arrow-left", description: "\(year + 1)")
+                            " \(year + 1)"
+                        }
                     }
+                    .font(.title6)
                 }
+                .margin(.leading, .small)
+                .horizontalAlignment(.leading)
+            } else {
+                Section {}
+            }
+            
+            if year > 2009 {
+                Section {
+                    Text {
+                        Link(target: "/Archives/\(year - 1)") {
+                            "\(year - 1) "
+                            Image(systemName: "arrow-right", description: "\(year - 1)")
+                        }
+                    }
+                    .font(.title6)
+                }
+                .horizontalAlignment(.trailing)
+            } else {
+                Section {}
             }
         }
     }

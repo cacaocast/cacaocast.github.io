@@ -16,9 +16,7 @@ struct Episode: ContentPage {
             Text(content.title)
                 .font(.title1)
         }
-        .width(2)
-        .padding(.horizontal, 350)
-        .margin(.bottom, .extraLarge)
+        .margin(.leading, .large)
         .horizontalAlignment(.center)
         
         Section {
@@ -32,17 +30,13 @@ struct Episode: ContentPage {
             .fontWeight(.ultraLight)
             .foregroundStyle(.gray)
         }
+        .margin(.top, .large)
         .horizontalAlignment(.center)
-        .width(2)
-        .padding(.horizontal, 350)
-        .margin(.bottom, .extraLarge)
         
         Section {
             Text(content.body)
                 .fontWeight(.ultraLight)
         }
-        .width(2)
-        .padding(.horizontal, 350)
-        .margin(0)
+        .margin([.leading, .top], .large)
     }
 }

@@ -33,6 +33,7 @@ struct Home: StaticPage {
                 .font(.title3)
                 .foregroundStyle(.gray)
         }
+        .margin(.leading, .small)
         .margin(.top, .extraLarge)
         
         Section {
@@ -59,6 +60,7 @@ struct Home: StaticPage {
             }
             .tableBorder(false)
         }
-        .width(6)
+        .margin(.top, .large)
+        .margin(.leading, .small)
     }
 }
