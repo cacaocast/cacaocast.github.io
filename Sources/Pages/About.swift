@@ -13,35 +13,52 @@ struct About: StaticPage {
 
     func body(context: PublishingContext) -> [BlockElement] {
         Section {
-            Text(markdown: "**Bienvenue** à CacaoCast! Ce balado en français vous est offert par [Philippe Guitard](https://mastodon.social/@philippeguitard) et [Philippe Casgrain](https://mastodon.social/@philippec). Toutes les trois semaines, ils discutent des sujets d’actualité qui concernent les développement sur les plateformes d’Apple. Vous trouverez tous les balados sur ce site mais vous pouvez aussi vous y abonner dans Poscasts et Spotify:")
+            Text(markdown: "**Bienvenue** à CacaoCast! Ce balado en français vous est offert par [Philippe Guitard](https://mastodon.social/@philippeguitard) et [Philippe Casgrain](https://mastodon.social/@philippec). Toutes les trois semaines, ils discutent des sujets d’actualité qui concernent les développement sur les plateformes d’Apple. Vous trouverez tous les balados sur ce site mais vous pouvez aussi vous y abonner dans Podcasts et Spotify:")
         }
-        .width(6)
-        .padding(.horizontal, 320)
-        .margin(.top, 50)
+        .margin(.top, .extraLarge)
+        .padding(.horizontal, .extraLarge)
             
         Section {
-            Card {
-                Link(target: "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=305272104") {
-                    Image(decorative: "/images/Apple_Podcast_Icon.png")
-                        .frame(width: 64)
+            Section {}
+            
+            Section {
+                Group {
+                    Link(target: "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=305272104") {
+                        Image(decorative: "/images/Apple_Podcast_Icon.png")
+                            .frame(width: 64)
+                    }
                 }
-            } footer: {
-                Strong("Podcasts")
             }
-
-            Card {
-                Link(target: "https://open.spotify.com/show/5vAwOoL8LCA9F9v0MWHpXB") {
-                    Image(decorative: "/images/Spotify_Podcast_Icon.png")
-                        .frame(width: 64)
+            
+            Section {
+                Group {
+                    Link(target: "https://open.spotify.com/show/5vAwOoL8LCA9F9v0MWHpXB") {
+                        Image(decorative: "/images/Spotify_Podcast_Icon.png")
+                            .frame(width: 64)
+                    }
                 }
-            } footer: {
-                Strong("Spotify")
             }
+            
+            Section {}
         }
         .horizontalAlignment(.center)
-        .width(2)
-        .padding(.horizontal, 590)
-        .margin(.bottom, 100)
+        
+        Section {
+            Section {}
+            
+            Section {
+                Text("Podcasts")
+                    .font(.title4)
+            }
+            
+            Section {
+                Text("Spotify")
+                    .font(.title4)
+            }
+            
+            Section {}
+        }
+        .horizontalAlignment(.center)
         
         Section {
             Table {
@@ -76,7 +93,7 @@ struct About: StaticPage {
                 }
             }
         }
-        .width(4)
-        .padding(.horizontal, 200)
+        .margin(.top, .extraLarge)
+        .padding(.horizontal, .extraLarge)
     }
 }
