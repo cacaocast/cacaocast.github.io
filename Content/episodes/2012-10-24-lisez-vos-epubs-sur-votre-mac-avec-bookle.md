@@ -1,5 +1,5 @@
 ---
-date: 2012-10-24 00:00
+date: 2012-10-24 12:00
 path: /episodes/lisez-vos-epubs-sur-votre-mac-avec-bookle
 layout: Episode
 ---

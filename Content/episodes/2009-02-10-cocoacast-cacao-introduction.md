@@ -1,5 +1,5 @@
 ---
-date: 2009-02-10 00:00
+date: 2009-02-10 12:00
 path: /episodes/introduction
 layout: Episode
 ---

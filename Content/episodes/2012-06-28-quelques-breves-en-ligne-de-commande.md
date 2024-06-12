@@ -1,5 +1,5 @@
 ---
-date: 2012-06-28 00:00
+date: 2012-06-28 12:00
 path: /episodes/quelques-breves-en-ligne-de-commande
 layout: Episode
 ---

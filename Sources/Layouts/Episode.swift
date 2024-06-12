@@ -12,6 +12,7 @@ struct Episode: ContentPage {
     let dateFormatter = ISO8601DateFormatter()
     
     func body(content: Content, context: PublishingContext) -> [any BlockElement] {
+
         Section {
             Text(content.title)
                 .font(.title1)
@@ -38,6 +39,6 @@ struct Episode: ContentPage {
                 .fontWeight(.ultraLight)
         }
         .margin(.top, .large)
-        .margin([.leading, .trailing], .small)
+        .margin([.leading, .trailing], .large)
     }
 }

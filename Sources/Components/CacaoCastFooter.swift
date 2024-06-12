@@ -21,6 +21,7 @@ struct CacaoCastFooter: Component {
                 }
                 .font(.title4)
                 .fontWeight(.ultraLight)
+                .foregroundStyle(.grey)
             }
             
             Text {
@@ -28,14 +29,12 @@ struct CacaoCastFooter: Component {
                 Link("Ignite", target: URL("https://github.com/twostraws/Ignite"))
                 " à Ottawa 🇨🇦"
             }
-            .font(.title6)
             .fontWeight(.ultraLight)
-
+            .margin(.none)
+            
             Text("© Copyright \(year) CacaoCast")
-                .font(.title6)
                 .fontWeight(.ultraLight)
         }
-        .foregroundStyle(.grey)
         .horizontalAlignment(.center)
         .margin(.top, .extraLarge)
     }

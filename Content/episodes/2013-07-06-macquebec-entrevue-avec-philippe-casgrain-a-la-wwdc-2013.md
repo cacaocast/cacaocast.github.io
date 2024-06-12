@@ -1,5 +1,5 @@
 ---
-date: 2013-07-06 00:00
+date: 2013-07-06 12:00
 path: /episodes/macquebec-entrevue-avec-philippe-casgrain-a-la-wwdc-2013
 layout: Episode
 ---

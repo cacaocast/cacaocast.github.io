@@ -24,12 +24,11 @@ struct CacaoCastNavBar: Component {
             
             Link(target: "/feed.rss") {
                 Image(systemName: "rss-fill")
-                    .foregroundStyle(Color(hex: "#f26522"))
             }
         }
-        .background(.steelBlue)
+        .background(Color(hex: "#8c82d5"))
         .navigationBarStyle(.dark)
         .navigationItemAlignment(.trailing)
-        .margin(.bottom, .extraLarge)
+        .position(.fixedTop)
     }
 }

@@ -13,6 +13,8 @@ struct MyTheme: Theme {
 
                 CacaoCastFooter()
             }
+            .padding(.vertical, 80)
+            .class("container")
         }
     }
 }
