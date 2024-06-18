@@ -26,9 +26,10 @@ struct CacaoCastNavBar: Component {
                 Image(systemName: "rss-fill")
             }
         }
-        .background(Color(hex: "#8c82d5"))
-        .navigationBarStyle(.dark)
         .navigationItemAlignment(.trailing)
+        .navigationBarStyle(.dark)
+        .background(.rebeccaPurple)
+//      .background(Color(hex: "#8c82d5")) // Doesn't work in Safari to tint the Window…
         .position(.fixedTop)
     }
 }

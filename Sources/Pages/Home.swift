@@ -41,7 +41,12 @@ struct Home: StaticPage {
                 for content in context.content(ofType: "episodes").sorted(by: \.date, order: .reverse)[...4] {
                     Row {
                         Column {
-                            Link(content)
+                            Text {
+                                Link(content)
+                                    .textDecoration(.none)
+                                    .role(.dark)
+                            }
+                            .font(.title5)
                         }
                         
                         Column {

@@ -28,7 +28,12 @@ struct Archives: StaticPage {
                 for content in context.content(ofType: "episodes").sorted(by: \.date).filter({ year == Calendar.current.dateComponents([.year], from: $0.date).year }) {
                     Row {
                         Column {
-                            Link(content)
+                            Text {
+                                Link(content)
+                                    .textDecoration(.none)
+                                    .role(.dark)
+                            }
+                            .font(.title5)
                         }
                         
                         Column {
