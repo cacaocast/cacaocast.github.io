@@ -25,7 +25,7 @@ struct Archives: StaticPage {
 
         Section {
             Table {
-                for content in context.content(ofType: "episodes").sorted(by: \.date).filter({ year == Calendar.current.dateComponents([.year], from: $0.date).year }) {
+                for content in context.content(ofType: "episodes").sorted(by: \.date, order: .reverse).filter({ year == Calendar.current.dateComponents([.year], from: $0.date).year }) {
                     Row {
                         Column {
                             Text {
