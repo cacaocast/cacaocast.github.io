@@ -43,10 +43,12 @@ struct Archives: StaticPage {
                                     .year(.defaultDigits)
                                     .locale(Locale(identifier: "fr_FR"))
                                 )
+                                .replacingOccurrences(of: " ", with: "&nbsp;")
                             )
                             .fontWeight(.ultraLight)
                             .foregroundStyle(.gray)
                         }
+                        .horizontalAlignment(.trailing)
                     }
                 }
             }
