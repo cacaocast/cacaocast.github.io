@@ -6333,5 +6333,29 @@
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:24:13</itunes:duration>
 		</item>
+        <item>
+            <title>Épisode 281 - Les spécialistes d'Apple, VirtualBuddy, Wisdom of Quinn, Swift migration guide, Astuces Xcode, Le guide du routard galactique</title>
+            <link>https://cacaocast.com/episodes/281</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-uni&egrave;me&nbsp;<a href="https://cacaocast.com/media/cacaocast_281.mp3" title="CacaoCast Episode 281">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://developer.apple.com/events/view/upcoming-events?search=Explore%20the%20biggest%20updates%20from%20WWDC24&" title="Apple">Apple</a> - Rencontrez les spécialistes?</li>
+                    <li><a href="https://m.objc.io/@chris/112631343823687903" title="VirtualBuddy">VirtualBuddy</a> - Tout baigne</li>
+                    <li><a href="https://github.com/macshome/The-Wisdom-of-Quinn" title="Wisdom of Quinn">Wisdom of Quinn</a> - Les conseils de Quinn pérennisés</li>
+                    <li><a href="https://github.com/apple/swift-migration-guide" title="Swift migration guide">Swift migration guide</a> - Le guide officiel de Swift 6</li>
+                    <li><a href="https://mastodon.social/@bwebster/112487142001164904" title="Astuce Xcode">Astuce Xcode</a> - Ctrl-\ pour naviguer entre les sections modifiées de votre code</li>
+                    <li><a href="https://mastodon.social/@simsaens/112671815166800552" title="Astuce Xcode">Astuce Xcode</a> - Coller du texte dans la zone de navigation pour créer un nouveau fichier</li>
+                    <li><a href="https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition" title="Le guide du routard galactique">Le guide du routard galactique</a> - Gratuit en ligne pour le 30e anniversaire</li>
+                </ul>
+                <p><a href="https://cacaocast.com/media/cacaocast_281.mp3" title="CacaoCast Episode 281">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Wed, 3 Jul 2024 14:00:00 EST</pubDate>
+            <enclosure url="https://cacaocast.com/media/cacaocast_281.mp3" length="54683205" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-281-les-specialistes-d-apple-virtual-buddy-wisdom-of-quinn-swift-migration-guide-astuces-xcode-le-guide-du-routard-galactique/guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Les spécialistes d'Apple, VirtualBuddy, Wisdom of Quinn, Swift migration guide, Astuces Xcode et Le guide du routard galactique sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Les spécialistes d'Apple, VirtualBuddy, Wisdom of Quinn, Swift migration guide, Astuces Xcode et Le guide du routard galactique sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>42:44</itunes:duration>
+        </item>
 	</channel>
 </rss>
