@@ -17,9 +17,7 @@ struct IgniteWebsite {
 struct ExampleSite: Site {    
     var name = "Site CacaoCast écrit en Swift avec Ignite!"
     var titleSuffix = " – CacaoCast"
-#warning("To change before deployment")
-//    var url = URL("https://cacaocast.github.io")
-    var url = URL("https://cacaocast.github.io/cacaocast")
+    var url = URL("https://cacaocast.github.io")
     var favicon = URL("/images/favicon.ico")
     var builtInIconsEnabled = true
     var robotsConfiguration = Robots()
