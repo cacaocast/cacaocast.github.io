@@ -25,7 +25,7 @@ struct CacaoCastFooter: Component {
             }
             
             Text {
-                "Bâtit avec ❤️ et "
+                "Bâti avec ❤️ et "
                 Link("Ignite", target: URL("https://github.com/twostraws/Ignite"))
                 " à Ottawa 🇨🇦"
             }
