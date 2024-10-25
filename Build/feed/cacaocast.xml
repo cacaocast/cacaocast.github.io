@@ -6398,5 +6398,28 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>56:05</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 284 - iPad mini, Croissant, ReactiveCollectionKit, TinyStorage, Toucan, Fireside Cocoa</title>
+            <link>https://cacaocast.com/episodes/284</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-quatri&egrave;me&nbsp;<a href="https://casgrain.net/podcasts/cacaocast_284.mp3" title="CacaoCast Episode 284">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://www.apple.com/ca/fr/ipad-mini/" title="iPad mini">iPad mini</a> - Avec Apple Intelligence</li>
+                    <li><a href="https://aaron.vegh.ca/2024/10/say-hello-to-croissant" title="Croissant">Croissant</a> - Pour publier sur Mastodon, Threads et Bluesky</li>
+                    <li><a href="https://www.jessesquires.com/blog/2024/10/18/introducing-reactivecollectionskit/" title="ReactiveCollectionKit">ReactiveCollectionKit</a> - Un framework moderne pour remplacer IGListKit</li>
+                    <li><a href="https://christianselig.com/2024/10/introducing-tiny-storage/" title="TinyStorage">TinyStorage</a> - Pour éviter des problèmes subtils avec UserDefaults</li>
+                    <li><a href="https://github.com/toucansites/minimal-example" title="Toucan">Toucan</a> - Un autre générateur de sites web en Swift</li>
+                    <li><a href="https://firesidecocoa.com" title="Fireside Cocoa">Fireside Cocoa</a> - Skiez les Rocheuses au Colorado</li>
+                </ul>
+                <p><a href="https://casgrain.net/podcasts/cacaocast_284.mp3" title="CacaoCast Episode 284">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Wed, 23 Oct 2024 10:00:00 EST</pubDate>
+            <enclosure url="https://casgrain.net/podcasts/cacaocast_284.mp3" length="60210193" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-284-ipad-mini-croissant-reactivecollectionkit-tinystorage-toucan-fireside-cocoa</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>iPad mini, Croissant, ReactiveCollectionKit, TinyStorage, Toucan et Fireside Cocoa sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>iPad mini, Croissant, ReactiveCollectionKit, TinyStorage, Toucan et Fireside Cocoa sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>47:20</itunes:duration>
+        </item>
 	</channel>
 </rss>
