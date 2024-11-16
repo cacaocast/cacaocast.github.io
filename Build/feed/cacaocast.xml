@@ -6401,7 +6401,7 @@
         <item>
             <title>Épisode 284 - iPad mini, Croissant, ReactiveCollectionKit, TinyStorage, Toucan, Fireside Cocoa</title>
             <link>https://cacaocast.com/episodes/284</link>
-            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-quatri&egrave;me&nbsp;<a href="https://casgrain.net/podcasts/cacaocast_284.mp3" title="CacaoCast Episode 284">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-quatri&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_284.mp3" title="CacaoCast Episode 284">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
                 <ul>
                     <li><a href="https://www.apple.com/ca/fr/ipad-mini/" title="iPad mini">iPad mini</a> - Avec Apple Intelligence</li>
                     <li><a href="https://aaron.vegh.ca/2024/10/say-hello-to-croissant" title="Croissant">Croissant</a> - Pour publier sur Mastodon, Threads et Bluesky</li>
@@ -6410,9 +6410,9 @@
                     <li><a href="https://github.com/toucansites/minimal-example" title="Toucan">Toucan</a> - Un autre générateur de sites web en Swift</li>
                     <li><a href="https://firesidecocoa.com" title="Fireside Cocoa">Fireside Cocoa</a> - Skiez les Rocheuses au Colorado</li>
                 </ul>
-                <p><a href="https://casgrain.net/podcasts/cacaocast_284.mp3" title="CacaoCast Episode 284">Ecoutez cet &eacute;pisode</a></p>]]></description>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_284.mp3" title="CacaoCast Episode 284">Ecoutez cet &eacute;pisode</a></p>]]></description>
             <pubDate>Wed, 23 Oct 2024 10:00:00 EST</pubDate>
-            <enclosure url="https://casgrain.net/podcasts/cacaocast_284.mp3" length="60210193" type="audio/mpeg" />
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_284.mp3" length="60210193" type="audio/mpeg" />
             <guid isPermaLink="false">episode-284-ipad-mini-croissant-reactivecollectionkit-tinystorage-toucan-fireside-cocoa</guid>
             <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
             <itunes:subtitle>iPad mini, Croissant, ReactiveCollectionKit, TinyStorage, Toucan et Fireside Cocoa sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
@@ -6420,6 +6420,30 @@
             <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>47:20</itunes:duration>
+        </item>
+        <item>
+            <title>Épisode 285 - Nouveaux Macs, Swift-format, Swift testing, DeckUI, Met</title>
+            <link>https://cacaocast.com/episodes/285</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-cinqui&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_285.mp3" title="CacaoCast Episode 285">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://www.apple.com/ca/fr/imac/" title="iMac">iPad mini</a> - Pas de 5k</li>
+                    <li><a href="https://www.apple.com/ca/fr/mac-mini/" title="Mac mini">Mac mini</a> - Petit mais costaud!</li>
+                    <li><a href="https://www.apple.com/ca/fr/macbook-pro/" title="Macbook Pro">Macbook Pro</a> - Avec Apple Intelligence</li>
+                    <li><a href="https://troz.net/post/2024/swift_format/" title="Swift-format">Swift-format</a> - Un formateur Swift inclus dans Xcode 16</li>
+                    <li><a href="https://furnacecreek.org/testpiler/ https://github.com/giginet/swift-testing-revolutionary" title="Swift Testing">Swift Testing</a> - Pour convertir vos tests au nouveau modèle de tests</li>
+                    <li><a href="https://github.com/joshdholtz/DeckUI" title="DeckUI">DeckUI</a> - Compliquez-vous la vie pour vos présentations</li>
+                    <li><a href="https://www.openculture.com/2024/11/the-metropolitan-museum-of-art-puts-490000-high-res-images-online.html" title="Oeuvres d’art numérisées">Oeuvres d’art numérisées</a> - Le Met vous en met plein la vue</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_285.mp3" title="CacaoCast Episode 285">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Sat, 16 Nov 2024 16:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_285.mp3" length="86394813" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-285-nouveaux-macs-swift-format-swift-testing-deckui-le-met</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Nouveaux Macs, Swift-format, Swift testing, DeckUI et le Met sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Nouveaux Macs, Swift-format, Swift testing, DeckUI et le Met sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>1:09:09</itunes:duration>
         </item>
 	</channel>
 </rss>
