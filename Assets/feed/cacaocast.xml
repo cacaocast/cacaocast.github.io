@@ -6445,5 +6445,27 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>1:09:09</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 286 - Advent of code, MonBoard, Raspberry Pi, Mac mini, Festivitas</title>
+            <link>https://cacaocast.com/episodes/286</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-sixi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_286.mp3" title="CacaoCast Episode 286">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://adventofcode.com/2024/" title="Advent of code">Advent of code</a> - De retour pour 2024 (suivez <a href="https://bitbucket.org/philippec/advent-of-code-2024 "title="Philippe">Philippe</a>!)</li>
+                    <li><a href="https://jan.miksovsky.com/posts/2024/11-12-momboard" title="MomBoard">MomBoard</a> - Pour un proche avec pertes cognitives</li>
+                    <li><a href="https://www.theverge.com/2024/11/25/24305455/raspberry-pi-pico-2-w-wi-fi-wireless-microcontroller" title="Raspberry Pi">Raspberry Pi</a> - Un Pico 2 avec Wifi pour <a href="https://www.pishop.ca/product/raspberry-pi-pico-2-w/" title="$10">$10</a>?</li>
+                    <li><a href="https://christianselig.com/2024/11/mac-mini-m4-prints/" title="Mac Mini 3D">Mac Mini 3D</a> - Si vous en voulez un mais vous n’en avez pas besoin</li>
+                    <li><a href="https://www.festivitas.app/" title="Festivitas">Festivitas</a> - Joyeux temps des fêtes sur votre Mac</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_286.mp3" title="CacaoCast Episode 286">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Fri, 6 Dec 2024 15:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_286.mp3" length="49247646" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-286-advent-of-code-momboard-raspberry-pi-mac-mini-festivitas</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Advent of code, MonBoard, Raspberry Pi, Mac mini et Festivitas sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Advent of code, MonBoard, Raspberry Pi, Mac mini et Festivitas sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>38:12</itunes:duration>
+        </item>
 	</channel>
 </rss>
