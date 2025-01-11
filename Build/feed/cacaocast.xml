@@ -6467,5 +6467,29 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>38:12</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 287 - Advent of Code, Bambu Lab, SwiftUI, Finder, Kodex, AquaUI</title>
+            <link>https://cacaocast.com/episodes/287</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-septi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_287.mp3" title="CacaoCast Episode 287">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://bitbucket.org/philippec/advent-of-code-2024" title="Advent of code">Advent of code</a> - L’expérience de Philippe</li>
+                    <li><a href="https://bambulab.com/fr/p1" title="Bambu Lab">Bambu Lab</a> - Cadeau de Noël de Philippe</li>
+                    <li><a href="https://developer.apple.com/events/view/DA5NDP29C3/dashboard?cid=mwa-amp" title="SwiftUI">SwiftUI</a> - Session en ligne par Apple</li>
+                    <li><a href="https://mastodon.social/@chockenberry/113703972587535736" title="Aperçus SwiftUI">Aperçus SwiftUI</a> - Ils peuvent prendre de la place</li>
+                    <li><a href="https://mastodon.social/@sommer@macaw.social/113783037446840479" title="Sélecteur d’application">Sélecteur d’application</a> - Des raccourcis clavier</li>
+                    <li><a href="https://www.kodex.app/" title="Kodex">Kodex</a> - Un éditeur de texte complet pour iOS avec iCloud Drive</li>
+                    <li><a href="https://github.com/jonsterling/AquaUI" title="AquaUI">AquaUI</a> - Un look rétro pour votre application Mac</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_287.mp3" title="CacaoCast Episode 287">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Sat, 11 Jan 2025 17:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_287.mp3" length="75309491" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-287-advent-of-code-bambu-lab-swiftui-finder-kodex-aquaui</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Advent of Code, Bambu Lab, SwiftUI, Finder, Kodex et AquaUI sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Advent of Code, Bambu Lab, SwiftUI, Finder, Kodex et AquaUI sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>59:55</itunes:duration>
+        </item>
 	</channel>
 </rss>
