@@ -6491,5 +6491,27 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>59:55</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 288 - Bambu Lab, CotEditor, AppIconKit, AutoDock, Swift Concurrency</title>
+            <link>https://cacaocast.com/episodes/288</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-huiti&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_288.mp3" title="CacaoCast Episode 288">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://www.3dnatives.com/controverse-bambu-lab-mise-a-jour-22012025/" title="Bambu Lab">Bambu Lab</a> - La controverse</li>
+                    <li><a href="https://coteditor.com/" title="CotEditor">CotEditor</a> - Éditeur en code source</li>
+                    <li><a href="https://github.com/danielsaidi/AppIconKit" title="AppIconKit">AppIconKit</a> - Pour que vos utilisateurs changent l’icône de votre application</li>
+                    <li><a href="https://ghall.blog/posts/2025/announcing-autodock/" title="AutoDock">AutoDock</a> - Cachez votre dock en fonction de la taille de vos écrans</li>
+                    <li><a href="https://www.massicotte.org/concurrency-glossary" title="Swift concurrency">Swift concurrency</a> - Un glossaire</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_288.mp3" title="CacaoCast Episode 288">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Fri, 31 Jan 2025 17:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_288.mp3" length="60864299" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-288-bambu-lab-coteditor-appiconkit-autodock-swift-concurrency</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Bambu Lab, CotEditor, AppIconKit, AutoDock et Swift Concurrency sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Bambu Lab, CotEditor, AppIconKit, AutoDock et Swift Concurrency sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>47:53</itunes:duration>
+        </item>
 	</channel>
 </rss>
