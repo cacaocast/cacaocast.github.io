@@ -6539,5 +6539,26 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>01:10:22</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 290 - Nouveaux Macs, Swift-build, Cmd-Maj-O, Jellyfin</title>
+            <link>https://cacaocast.com/episodes/290</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-dixi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_290.mp3" title="CacaoCast Episode 290">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://www.apple.com/ca/fr/mac-studio/" title="Nouveaux Macs">Nouveaux Macs</a> - Mac Studio M4 Max & M3 Ultra + <a href="https://www.apple.com/ca/fr/macbook-air/" title="Macbook Air M4">Macbook Air M4</a></li>
+                    <li><a href="https://github.com/swiftlang/swift-build" title="Swift-build">Swift-build</a> - Maintenant en code-source libre</li>
+                    <li><a href="https://mastodon.social/@bart@floss.social/114109305921288737" title="Cmd-Maj-O">Cmd-Maj-O</a> - Fonctionne sur les sites en DocC</li>
+                    <li><a href="https://jellyfin.org/posts/ios-v1.6.0/" title="Jellyfin">Jellyfin</a> - Maintenant sur iOS</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_290.mp3" title="CacaoCast Episode 290">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Fri, 21 Mar 2025 10:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_290.mp3" length="59497050" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-290-nouveaux-macs-swift-build-cmd-maj-o-jellyfin</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Nouveaux Macs, Swift-build, Cmd-Maj-O et Jellyfin sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Nouveaux Macs, Swift-build, Cmd-Maj-O et Jellyfin sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>46:44</itunes:duration>
+        </item>
 	</channel>
 </rss>
