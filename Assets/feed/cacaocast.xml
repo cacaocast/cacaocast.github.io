@@ -6560,5 +6560,29 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>46:44</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 291 - WWDC25, GoSSL, TextReplacements, Curseur texte, Tumult, Unwatched, The Egg</title>
+            <link>https://cacaocast.com/episodes/291</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-onzi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_291.mp3" title="CacaoCast Episode 291">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://developer.apple.com/wwdc25/" title="WWDC25">WWDC25</a> - Du 9 au 13 juin!</li>
+                    <li><a href="https://www.buypass.com/products/tls-ssl-certificates/go-ssl" title="GoSSL">GoSSL</a> - Une alternative européenne à LetsEncrypt</li>
+                    <li><a href="https://github.com/danielsaidi/TextReplacements" title="TextReplacements">TextReplacements</a> - Pour personnaliser du texte en SwiftUI</li>
+                    <li><a href="https://mastodon.social/@PH1BE5/114258657037840278" title="Curseur texte">Curseur texte</a> - Il vous dérange? On peut le désactiver</li>
+                    <li><a href="https://github.com/unixorn/tumult.plugin.zsh" title="Tumult">Tumult</a> - Un plugin zsh avec plein de petits scripts utiles</li>
+                    <li><a href="https://github.com/fer0n/Unwatched" title="Unwatched">Unwatched</a> - Un lecteur YouTube en code-source libre</li>
+                    <li><a href="https://www.galactanet.com/oneoff/theegg.html" title="The Egg">The Egg</a> - Une historiette d’Andy Weir</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_291.mp3" title="CacaoCast Episode 291">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Thu, 17 Apr 2025 10:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_291.mp3" length="62914911" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-291-wwdc25-gossl-textreplacements-curseur-texte-tumult-unwatched-the-egg</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>WWDC25, GoSSL, TextReplacements, Curseur texte, Tumult, Unwatched et The Egg sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>WWDC25, GoSSL, TextReplacements, Curseur texte, Tumult, Unwatched et The Egg sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>49:35</itunes:duration>
+        </item>
 	</channel>
 </rss>
