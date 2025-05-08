@@ -6584,5 +6584,28 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>49:35</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 292 - UIScene, ChatGPT, O'Reilly, IA, Jot, mobygratis</title>
+            <link>https://cacaocast.com/episodes/292</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-douzi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_292.mp3" title="CacaoCast Episode 292">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://developer.apple.com/documentation/technotes/tn3187-migrating-to-the-uikit-scene-based-life-cycle" title="UIScene">UIScene</a> - Vos applications UIKit devront l’adopter</li>
+                    <li><a href="https://www.sustainabilitybynumbers.com/p/carbon-footprint-chatgpt" title="Empreinte carbone ChatGPT">Empreinte carbone ChatGPT</a> - D’autres calculs plus conservateurs</li>
+                    <li><a href="https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/" title="IA et O’Reilly">IA et O’Reilly</a> - La fin de la programmation comme on la connaît?</li>
+                    <li><a href="https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/" title="L’IA est le futur">L’IA est le futur</a> - Ne soyez pas en reste</li>
+                    <li><a href="https://github.com/mattmassicotte/Jot" title="Jot">Jot</a> - Pour faire des tokens JWT en Swift avec CryptoKit</li>
+                    <li><a href="https://mobygratis.com/" title="mobygratis">mobygratis</a> - Plus de 500 pistes pour vos projets</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_292.mp3" title="CacaoCast Episode 292">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Thu, 8 May 2025 09:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_292.mp3" length="70494079" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-292-uiscene-chatgpt-oreilly-ia-jot-mobygratis</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>UIScene, ChatGPT, O'Reilly, IA, Jot et mobygratis sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>UIScene, ChatGPT, O'Reilly, IA, Jot et mobygratis sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>55:54</itunes:duration>
+        </item>
 	</channel>
 </rss>
