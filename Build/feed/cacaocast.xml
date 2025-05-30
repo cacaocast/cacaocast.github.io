@@ -6607,5 +6607,27 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>55:54</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 293 - iOS 26, Swift-Mocking, Local-lambda, Probing, WWDC Index</title>
+            <link>https://cacaocast.com/episodes/293</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-treizi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_293.mp3" title="CacaoCast Episode 293">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://9to5mac.com/2025/05/28/ios-26-coming-next-month/" title="iOS 26">iOS 26</a> - On ne passe pas à 19</li>
+                    <li><a href="https://github.com/fetch-rewards/swift-mocking" title="Swift-Mocking">Swift-Mocking</a> - Facilitez vos tests unitaires</li>
+                    <li><a href="https://swifttoolkit.dev/posts/local-lambda" title="Local-lambda">Local-lambda</a> - Pour créer et tester vos fonctions AWS</li>
+                    <li><a href="https://github.com/NSFatalError/Probing" title="Probing">Probing</a> - Une autre façon d’injecter des vérifications dans vos tests</li>
+                    <li><a href="https://nonstrict.eu/wwdcindex/" title="WWDC Index">WWDC Index</a> - Transcriptions de toutes les sessions WWDC depuis l’an 2000</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_293.mp3" title="CacaoCast Episode 293">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Thu, 30 May 2025 17:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_293.mp3" length="64438895" type="audio/mpeg" />
+            <guid isPermaLink="false">episode-293-ios-26-swift-mocking-local-lambda-probing-wwdc-index</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>iOS 26, Swift-Mocking, Local-lambda, Probing et WWDC Index sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>iOS 26, Swift-Mocking, Local-lambda, Probing et WWDC Index sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>50:51</itunes:duration>
+        </item>
 	</channel>
 </rss>
