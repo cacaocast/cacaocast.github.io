@@ -6652,5 +6652,30 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>1:05:38</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 295 - Évènement Apple, AFP, Swift Concurrency, GitDesktop, VoltStar, SillyBalls, Commodore, AltWeatherCan</title>
+            <link>https://cacaocast.com/episodes/295</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-quinzi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_295.mp3" title="CacaoCast Episode 295">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://www.tomshardware.fr/la-date-de-presentation-de-liphone-17-vient-detre-officialisee-par-apple/" title="Apple Event “Awe Dropping”">Apple Event “Awe Dropping”</a> - Les nouveautés de l’automne</li>
+                    <li><a href="https://mastodon.social/@dmark@hachyderm.io/114839257651955013" title="AFP">AFP</a> - Maintenant obsolète avec macOS Sequoia 15.5</li>
+                    <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Isolation" title="Swift concurrency">Swift concurrency</a> - La documentation mise-à-jour</li>
+                    <li><a href="https://github.com/kics223w1/GitDesktop" title="GitDesktop">GitDesktop</a> - Un client Git simplifié</li>
+                    <li><a href="https://github.com/Michiel1992/voltstarP" title="VoltStar">VoltStar</a> - Le chargement de votre Polestar dans la barre de menus</li>
+                    <li><a href="https://github.com/finnvoor/yap" title="SillyBalls">SillyBalls</a> - Un classique Mac QuickDraw réinventé</li>
+                    <li><a href="https://www.commodore.net/" title="Commodore">Commodore</a> - Le retour du C64</li>
+                    <li><a href="https://mastodon.social/@hannorein/114834563571928940" title="AltWeatherCan">AltWeatherCan</a> - Si vous vous ennuyez de l’application météo d’Environnement Canada</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_295.mp3" title="CacaoCast Episode 295">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Wed, 3 Sep 2025 17:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_295.mp3" length="76357001" type="audio/mpeg"/>
+            <guid isPermaLink="false">episode-295-evenement-apple-afp-swift-concurrency-gitdesktop-voltstar-sillyballs-commodore-altweathercan</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Évènement Apple, AFP, Swift Concurrency, GitDesktop, VoltStar, SillyBalls, Commodore et AltWeatherCan sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Évènement Apple, AFP, Swift Concurrency, GitDesktop, VoltStar, SillyBalls, Commodore et AltWeatherCan sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>1:00:47</itunes:duration>
+        </item>
 	</channel>
 </rss>
