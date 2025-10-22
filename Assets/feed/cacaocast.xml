@@ -6677,5 +6677,28 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>1:00:47</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 296 - Évènement Apple, UIViewKit, Xcode 26, Tahoe Detector, ssh, Traduction</title>
+            <link>https://cacaocast.com/episodes/296</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-seizi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_296.mp3" title="CacaoCast Episode 296">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://podcasts.apple.com/ca/podcast/apple-events-video/id275834665?i=1000725761502" title="Apple Event “Awe Dropping”">Apple Event “Awe Dropping”</a> - Les annonces</li>
+                    <li><a href="https://github.com/Adobels/UIViewKit" title="UIViewKit">UIViewKit</a> - Un framework d’un de nos auditeurs</li>
+                    <li><a href="https://mastodon.social/@chockenberry/115352054085833954" title="Xcode 26">Xcode 26</a> - Supporté dans les machines virtuelles</li>
+                    <li><a href="https://furbo.org/2025/10/06/tahoe-electron-detector/" title="Tahoe Detector">Tahoe Detector</a> - Pour les applications Electron sous Tahoe</li>
+                    <li><a href="https://mastodon.social/@arroz/115214974855505705" title="ssh et Tahoe">ssh et Tahoe</a> - Vous pouvez déverrouiller le système via SSH</li>
+                    <li><a href="https://www.lexiconista.com/falsehoods-about-languages/" title="Traduction">Traduction</a> - Un tas de détails ignorés par la plupart des gens par Michal Měchura</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_296.mp3" title="CacaoCast Episode 296">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Wed, 22 Oct 2025 17:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_296.mp3" length="90615156" type="audio/mpeg"/>
+            <guid isPermaLink="false">episode-296-evenement-apple-uikitview-xcode26-tahoe-detector-ssh-traduction</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Évènement Apple, UIViewKit, Xcode 26, Tahoe Detector, ssh et de la Traduction sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Évènement Apple, UIViewKit, Xcode 26, Tahoe Detector, ssh et de la Traduction sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>1:12:40</itunes:duration>
+        </item>
 	</channel>
 </rss>
