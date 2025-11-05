@@ -6700,5 +6700,28 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>1:12:40</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 297 - AppStore, AsyncCombine, MDItemKeywords, Dfn, NextSpace, NS🐞</title>
+            <link>https://cacaocast.com/episodes/297</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-septi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_297.mp3" title="CacaoCast Episode 297">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://apps.apple.com" title="AppStore">AppStore</a> - Maintenant sur le web?</li>
+                    <li><a href="https://lumley.io/blogs/async-combine/" title="AsyncCombine">AsyncCombine</a> - La syntaxe de Combine, les opérations de Swift Concurrency</li>
+                    <li><a href="https://mastodon.social/@marioguzman/110578941262432702" title="MDItemKeywords">MDItemKeywords</a> - Aidez vos utilisateurs Mac</li>
+                    <li><a href="https://mastodon.social/@chockenberry/115311897172414874" title="Dfn">Dfn</a> - Un meilleur utilitaire que df</li>
+                    <li><a href="https://github.com/trunkmaster/nextspace" title="NextSpace">NextSpace</a> - Un environnement à la NextStep pour Linux</li>
+                    <li><a href="https://mastodon.social/@ccgus/115444175840059442" title="NS🐞">NS🐞</a> - Pour un menu de débogage sur macOS</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_297.mp3" title="CacaoCast Episode 297">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Wed, 05 Nov 2025 09:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_297.mp3" length="59526830" type="audio/mpeg"/>
+            <guid isPermaLink="false">episode-297-appstore-asyncombine-mditemkeywords-dfn-nextspace-nsbug</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>AppStore, AsyncCombine, MDItemKeywords, Dfn, NextSpace et NS🐞 sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>AppStore, AsyncCombine, MDItemKeywords, Dfn, NextSpace et NS🐞 sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>46:46</itunes:duration>
+        </item>
 	</channel>
 </rss>
