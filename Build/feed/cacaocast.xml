@@ -31,7 +31,7 @@
 			<itunes:email>cacaocast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:block>no</itunes:block>
-		<itunes:category text="News">
+		<itunes:category text="Technology">
 			<itunes:category text="Tech News" />
 		</itunes:category>
 		<item>
@@ -6722,6 +6722,30 @@
             <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>46:46</itunes:duration>
+        </item>
+        <item>
+            <title>Épisode 298 - Apple Music, NoLongerEvil, Skip Fuse, Zone Bar, OpenCulture, Coup de vieux, macOS</title>
+            <link>https://cacaocast.com/episodes/298</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-dix-huiti&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_298.mp3" title="CacaoCast Episode 298">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=BGfiw9AtwnM" title="Apple music">Apple music</a> - Importez une playlist Spotify sans application externe</li>
+                    <li><a href="https://nolongerevil.com/" title="NoLongerEvil">NoLongerEvil</a> - Pour redonner une connectivité à votre thermostat Nest 1ère ou 2ème génération</li>
+                    <li><a href="https://skip.tools/blog/skip-fuse-free-for-indies/" title="Skip fuse">Skip fuse</a> - Maintenant gratuit pour les développeurs indépendants</li>
+                    <li><a href="https://sindresorhus.com/zone-bar" title="Zone bar">Zone bar</a> - Les horloges du monde dans votre barre des menus</li>
+                    <li><a href="https://www.openculture.com/2023/06/1500-paintings-drawings-by-vincent-van-gogh-have-been-digitized-put-online.html" title="OpenCulture">OpenCulture</a> - En remet avec Van Gogh</li>
+                    <li><a href="https://mastodon.social/@leyrer@23.social/115559137143166037" title="Coup de vieux">Coup de vieux</a> - Une machine distributrice comme icône d’enregistrement</li>
+                    <li><a href="https://mastodon.social/@bwebster/115500662541926135" title="Astuce macOS Tahoe">Astuce macOS Tahoe</a> - On n’arrête pas le progrès!</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_298.mp3" title="CacaoCast Episode 298">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Wed, 26 Nov 2025 17:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_298.mp3" length="64906479" type="audio/mpeg"/>
+            <guid isPermaLink="false">episode-298-apple-music-nolongerevil-skip-fuse-zone-bar-openculture-coup-de-vieux-macos</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Apple Music, NoLongerEvil, Skip Fuse, Zone Bar, OpenCulture, Coup de vieux et macOS sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Apple Music, NoLongerEvil, Skip Fuse, Zone Bar, OpenCulture, Coup de vieux et macOS sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>51:15</itunes:duration>
         </item>
 	</channel>
 </rss>
