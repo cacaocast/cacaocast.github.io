@@ -6747,5 +6747,28 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>51:15</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 299 - Apple Ads, Finicky et Choosy, Alan, LightBuddy, SwiftRockies, Boing</title>
+            <link>https://cacaocast.com/episodes/299</link>
+            <description><![CDATA[<p>Bienvenue dans le deux-cent-quatre-vingt-dix-neuvi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_299.mp3" title="CacaoCast Episode 299">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://ads.apple.com/app-store/help/ad-placements/0082-search-results" title="AppleAds">AppleAds</a> - Plus d’annonces dans vos résultats sur l’app store</li>
+                    <li><a href="https://johnste.github.io/finicky/" title="Finicky et Choosy">Finicky et Choosy</a> - Contrôlez le navigateur pour tous les liens (<a href="https://choosy.app/" title="Choosy">Choosy</a>)</li>
+                    <li><a href="https://tyler.io/2025/11/26/alan/" title="Alan">Alan</a> - Pour bien repérer la fenêtre active</li>
+                    <li><a href="https://rambo.codes/posts/2025-12-15-sherlocked-before-it-was-born-lightbuddy" title="LightBuddy">LightBuddy</a> - Si vous n’avez pas macOS 26.2</li>
+                    <li><a href="https://swiftrockies.com/" title="SwiftRockies">SwiftRockies</a> - Une nouvelle conférence à Calgary, AB</li>
+                    <li><a href="https://boing.greg.technology/" title="Boing">Boing</a> - Parfois on a besoin de se détendre</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_299.mp3" title="CacaoCast Episode 299">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Fri, 19 Dec 2025 17:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_299.mp3" length="61369507" type="audio/mpeg"/>
+            <guid isPermaLink="false">episode-299-apple-ads-finicky-et-choosy-alan-lightbuddy-swiftrockies-boing</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Apple Ads, Finicky et Choosy, Alan, LightBuddy, SwiftRockies et Boing sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Apple Ads, Finicky et Choosy, Alan, LightBuddy, SwiftRockies et Boing sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>48:18</itunes:duration>
+        </item>
 	</channel>
 </rss>
