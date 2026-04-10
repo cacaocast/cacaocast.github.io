@@ -6795,5 +6795,28 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>56:16</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 301 - Annonces Apple, Skip, SiriMote, Xylem, MHGP, Mockdown</title>
+            <link>https://cacaocast.com/episodes/301</link>
+            <description><![CDATA[<p>Bienvenue dans le trois-cent-et-uni&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_301.mp3" title="CacaoCast Episode 301">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><b>Apple</b> - toutes sortes d’annonces</li>
+                    <li><a href="https://skip.dev/blog/skip-is-free/" title="Skip">Skip</a> - Maintenant gratuit et en code-source libre</li>
+                    <li><a href="https://eternalstorms.at/sirimote/" title="SiriMote">SiriMote</a> - Contrôlez votre mac avec votre télécommande d’AppleTV</li>
+                    <li><a href="https://github.com/compnerd/xylem" title="Xylem">Xylem</a> - Pour votre XML en Swift pur</li>
+                    <li><a href="https://mrshu.github.io/github-statuses/" title="MHGP">MHGP</a> - Avez-vous l’impression que Github n’est plus très stable?</li>
+                    <li><a href="https://www.mockdown.design/" title="Mockdown">Mockdown</a> - Faites vos dessins en ASCII sur le web</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_301.mp3" title="CacaoCast Episode 301">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Fri, 10 Apr 2026 17:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_301.mp3" length="74446927" type="audio/mpeg"/>
+            <guid isPermaLink="false">episode-301-annonces-apple-skip-sirimote-xylem-mhgp-mockdown</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Les annonces Apple, Skip, SiriMote, Xylem, MHGP et Mockdown sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Les annonces Apple, Skip, SiriMote, Xylem, MHGP et Mockdown sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>59:12</itunes:duration>
+        </item>
 	</channel>
 </rss>
