@@ -6818,5 +6818,28 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>59:12</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 302 - Tim Cook, OhDieux, Ghostty, ActionStatus, Bug TCP, Clones AI</title>
+            <link>https://cacaocast.com/episodes/302</link>
+            <description><![CDATA[<p>Bienvenue dans le trois-deuxi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_302.mp3" title="CacaoCast Episode 302">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/" title="Au revoir Tim Cook!">Au revoir Tim Cook!</a> - John Ternus le remplace</li>
+                    <li><a href="https://github.com/marcel-galarneau/rss-converter/" title="Au revoir, Ohdieux">Au revoir, Ohdieux</a> - Le service n’existe <a href="https://yodio.ca/" title="yodio.ca">plus</a>?</li>
+                    <li><a href="https://mitchellh.com/writing/ghostty-leaving-github" title="Ghostty">Ghostty</a> - Quitte <a href="https://www.dayswithoutgithubincident.com/" title="Github">Github</a></li>
+                    <li><a href="https://actionstatus.elegantchaos.com/" title="ActionStatus">ActionStatus</a> - Pour faire le suivi des actions Github</li>
+                    <li><a href="https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking" title="Bug TCP">Bug TCP</a> - Bombe à retardement</li>
+                    <li><a href="https://mastodon.social/@sindresorhus/116104551705332458" title="Clones">Clones</a> - Est-ce la fin du développement tel qu’on le connaît?</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_302.mp3" title="CacaoCast Episode 302">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Thu, 7 May 2026 10:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_302.mp3" length="73501294" type="audio/mpeg"/>
+            <guid isPermaLink="false">episode-302-tim-cook-ohdieux-ghostty-actionstatus-bug-tcp-clones</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Tim Cook, OhDieux, Ghostty, ActionStatus, Bug TCP et les Clones AI sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Tim Cook, OhDieux, Ghostty, ActionStatus, Bug TCP et les Clones AI sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>58:25</itunes:duration>
+        </item>
 	</channel>
 </rss>
