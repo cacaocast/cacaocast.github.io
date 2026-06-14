@@ -6841,5 +6841,23 @@
             <itunes:explicit>false</itunes:explicit>
             <itunes:duration>58:25</itunes:duration>
         </item>
+        <item>
+            <title>Épisode 303 - WWDC 2026</title>
+            <link>https://cacaocast.com/episodes/303</link>
+            <description><![CDATA[<p>Bienvenue dans le trois-troisi&egrave;me&nbsp;<a href="https://archive.org/download/cacaocast/cacaocast_303.mp3" title="CacaoCast Episode 303">épisode</a> de <a href="https://mastodon.world/@cacaocast" title="CacaoCast sur Mastodon.world">CacaoCast</a>! Dans cet épisode, <a href="https://mastodon.social/@philippec" title="Philippe Casgrain sur Mastodon.social">Philippe Casgrain</a> et <a href="https://mastodon.social/@philippeguitard" title="Philippe Guitard sur Mastodon.social">Philippe Guitard</a> discutent des sujets suivants:</p>
+                <ul>
+                    <li><a href="https://www.apple.com/wwdc2026" title="WWDC 2026">WWDC 2026</a> - Les annonces</li>
+                </ul>
+                <p><a href="https://archive.org/download/cacaocast/cacaocast_303.mp3" title="CacaoCast Episode 303">Ecoutez cet &eacute;pisode</a></p>]]></description>
+            <pubDate>Sun, 14 Jun 2026 10:00:00 EST</pubDate>
+            <enclosure url="https://archive.org/download/cacaocast/cacaocast_303.mp3" length="80034519" type="audio/mpeg"/>
+            <guid isPermaLink="false">episode-303-wwdc-2026</guid>
+            <itunes:author>Philippe Guitard et Philippe Casgrain</itunes:author>
+            <itunes:subtitle>Les annonces de la WWDC 2026 sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:subtitle>
+            <itunes:summary>Les annonces de la WWDC 2026 sont les sujets abordés par Philippe Casgrain et Philippe Guitard dans cet épisode</itunes:summary>
+            <itunes:keywords>Apple,macOS,iOS,ipadOS,watchOS,tvOS,visionOS,Cocoa,Swift,SwiftUI,Objective-C,Obj-C,Mac,iPhone,Apple Watch,Xcode,Développeur,français,french</itunes:keywords>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>01:03:51</itunes:duration>
+        </item>
 	</channel>
 </rss>
